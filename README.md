@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alitousen
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning new baby
+- 🌱 I’m currently learning. i am new baby >_<
 - 📫 How to reach me email: not now :)
 - Trying my best to learn .
 - currently i am focusing on Linux Operating System.
